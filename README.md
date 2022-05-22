@@ -1,5 +1,3 @@
-## Hi there, I'm Peter 👋
-
 <p>
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=sirofwalls&show_icons=true&theme=vision-friendly-dark' />
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sirofwalls&layout=compact' />
