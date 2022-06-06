@@ -1,7 +1,5 @@
-<p>
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=sirofwalls&show_icons=true&theme=vision-friendly-dark' />
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sirofwalls&layout=compact' />
-</p>
+![Sirofwalls GitHub stats](https://github-readme-stats.vercel.app/api?username=sirofwalls&theme=vision-friendly-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirofwalls&layout=compact)](https://github.com/sirofwalls/github-readme-stats)
 
 <hr width='100%'>
 <p width='50%' >
